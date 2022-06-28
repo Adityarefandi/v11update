@@ -1,8 +1,8 @@
 {
   "users": {
     "18153243461@s.whatsapp.net": {
-      "exp": 105,
-      "limit": 999,
+      "exp": 999,
+      "limit": 100,
       "joinlimit": 1,
       "spammer": 0,
       "money": 10000,
@@ -26,7 +26,7 @@
       "expg": 0,
       "level": 0,
       "role": "Beginner",
-      "autolevelup": true,
+      "autolevelup": false,
       "potion": 10,
       "trash": 0,
       "sampah": 0,
