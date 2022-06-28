@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. Ditz-MD
 
